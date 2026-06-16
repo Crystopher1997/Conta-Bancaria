@@ -102,5 +102,3 @@ Durante o desenvolvimento deste projeto foram praticados conceitos fundamentais 
 ## 👨‍💻 Autor
 
 Desenvolvido por **Crystopher Carvalho**
-
-GitHub: https://github.com/Crystopher1997
